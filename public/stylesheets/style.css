@@ -1,0 +1,38 @@
+html { 
+  background: url(../images/background-mid.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #1F333E
+}
+
+a {
+  color: #1F333E;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+#titlebox {
+  text-align: center;
+  margin: 0 auto;
+}
+
+ul {
+  padding: 0;
+}
+
+.li-horizontal {
+  display: inline;
+  list-style-type: none;
+  padding: 0.5em;
+  font-size: 16px;
+}
