@@ -18,8 +18,7 @@ a {
 }
 
 a:hover {
-  /*color: #67919E;*/
-  color: red;
+  color: #67919E;
   text-decoration: none;
 }
 
