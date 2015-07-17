@@ -7,9 +7,10 @@ html {
 }
 
 body {
+  font-family: 'Source Sans Pro', sans-serif;
   padding: 50px;
-  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
-  color: #1F333E
+  font-size: 20px;
+  color: #1F333E;
 }
 
 a {
