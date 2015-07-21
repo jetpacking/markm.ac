@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #1F333E;
+  color: #1997AD;
   text-decoration: none;
 }
 
@@ -24,7 +24,18 @@ a:hover {
 }
 
 h1 {
+  font-size: 3em;
   font-weight: lighter;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+
+p {
+  font-size: .5em;
 }
 
 #titlebox {
@@ -40,7 +51,7 @@ ul {
   display: inline;
   list-style-type: none;
   padding: 0.5em;
-  font-size: 16px;
+  font-size: 1em;
   font-variant: small-caps;
 
 }
@@ -49,6 +60,6 @@ ul {
   display: inline;
   list-style-type: none;
   padding: 0.5em;
-  font-size: 16px;
+  font-size: 1em;
   font-variant: small-caps;
 }
